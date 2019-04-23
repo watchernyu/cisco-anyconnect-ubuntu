@@ -1,6 +1,9 @@
 # cisco-anyconnect-ubuntu
 This is a short guide on using cisco anyconnect vpn on ubuntu. This is especially for NYU students who use a Ubuntu linux machine and want to use VPN outside campus, or connect to VPN at other NYU global site (NYU Shanghai VPN for example). This guide is tested on Ubuntu 18.04 LTS, but should also work on Ubuntu 16. 
 
+## Update: NYU Shanghai now has support page for VPN in ubuntu:
+https://nyu.service-now.com/servicelink/kb_search.do?id=KB0014932
+
 ## First Install necessary system packages, use sudo apt-get install to install the following packages.
 - openconnect
 - network-manager-openconnect
